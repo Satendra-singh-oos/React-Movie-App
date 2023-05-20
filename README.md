@@ -15,4 +15,4 @@
 
 **Website Link**
 
-https://statuesque-liger-ba27ba.netlify.app/
+https://sweet-kringle-156336.netlify.app/
